@@ -10,6 +10,6 @@ venue: "In Josef Ruppenhofer, Melanie Siegel, and Michael Wiegand, editors, Proc
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno Schneider. (2018). "Towards the Automatic Classification of Offensive Language and Related Phenomena in German Tweets." *In Josef Ruppenhofer, Melanie Siegel, and Michael Wiegand, editors, Proceedings of the GermEval Workshop 2018 - Shared Task on the Identification of Offensive Language, pages 95-103, Vienna, Austria, 9 2018. 21 September 2018.*."
+citation: "Julián Moreno Schneider. (2018). \"Towards the Automatic Classification of Offensive Language and Related Phenomena in German Tweets.\" *In Josef Ruppenhofer, Melanie Siegel, and Michael Wiegand, editors, Proceedings of the GermEval Workshop 2018 - Shared Task on the Identification of Offensive Language, pages 95-103, Vienna, Austria, 9 2018. 21 September 2018.*."
 ---
 

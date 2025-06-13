@@ -10,6 +10,6 @@ venue: "Revista Española para el procesamiento del lenguaje natural (SEPLN), 29
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "David del Valle-Agudo. (2008). "Plataforma de Interacción Natural para el Acompañamiento Virtual." *Revista Española para el procesamiento del lenguaje natural (SEPLN), 294, Procesamiento del Lenguaje Natural, Sociedad Española para el Procesamiento del Lenguaje Natural, ISSN: 1135-5948, Número: 41, Páginas: 293, 294, http://www.sepln.org/revistaSEPLN/revista/41/demo2.pdf*."
+citation: "David del Valle-Agudo. (2008). \"Plataforma de Interacción Natural para el Acompañamiento Virtual.\" *Revista Española para el procesamiento del lenguaje natural (SEPLN), 294, Procesamiento del Lenguaje Natural, Sociedad Española para el Procesamiento del Lenguaje Natural, ISSN: 1135-5948, Número: 41, Páginas: 293, 294, http://www.sepln.org/revistaSEPLN/revista/41/demo2.pdf*."
 ---
 

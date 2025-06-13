@@ -10,6 +10,6 @@ venue: "In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and L
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Karolina Zaczynska. (2021). "Combining Knowledge about Document Types and Structures for Enhanced Content Curation.." *In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and Lydia Pintscher, editors, Proceedings of QURATOR 2021 - Conference on Digital Curation Technologies, Berlin, Germany, 02 2021. CEUR Workshop Proceedings, Volume 2836. 11/12 February 2021.*."
+citation: "Karolina Zaczynska. (2021). \"Combining Knowledge about Document Types and Structures for Enhanced Content Curation..\" *In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and Lydia Pintscher, editors, Proceedings of QURATOR 2021 - Conference on Digital Curation Technologies, Berlin, Germany, 02 2021. CEUR Workshop Proceedings, Volume 2836. 11/12 February 2021.*."
 ---
 

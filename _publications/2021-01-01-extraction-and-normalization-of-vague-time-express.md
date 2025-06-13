@@ -10,6 +10,6 @@ venue: "In Proceedings of Konferenz zur Verarbeitung natürlicher Sprache (KONVE
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Ulrike May. (2021). "Extraction and Normalization of Vague Time Expressions in German.." *In Proceedings of Konferenz zur Verarbeitung natürlicher Sprache (KONVENS 2021), Düsseldorf, Germany, 9 2021. 6-9 September 2021.*."
+citation: "Ulrike May. (2021). \"Extraction and Normalization of Vague Time Expressions in German..\" *In Proceedings of Konferenz zur Verarbeitung natürlicher Sprache (KONVENS 2021), Düsseldorf, Germany, 9 2021. 6-9 September 2021.*."
 ---
 

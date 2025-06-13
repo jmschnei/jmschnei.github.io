@@ -10,6 +10,6 @@ venue: "In Sakae Yamamoto, editor, Human Interface and the Management of Informa
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno Schneider. (2017). "Towards User Interfaces for Semantic Storytelling." *In Sakae Yamamoto, editor, Human Interface and the Management of Information: Information, Knowledge and Interaction Design, 19th International Conference, HCI International 2017 (Vancouver, Canada), number 10274 in Lecture Notes in Computer Science (LNCS), pages 403-421, Cham, Switzerland, 7 2017. Springer. Part II.*."
+citation: "Julián Moreno Schneider. (2017). \"Towards User Interfaces for Semantic Storytelling.\" *In Sakae Yamamoto, editor, Human Interface and the Management of Information: Information, Knowledge and Interaction Design, 19th International Conference, HCI International 2017 (Vancouver, Canada), number 10274 in Lecture Notes in Computer Science (LNCS), pages 403-421, Cham, Switzerland, 7 2017. Springer. Part II.*."
 ---
 

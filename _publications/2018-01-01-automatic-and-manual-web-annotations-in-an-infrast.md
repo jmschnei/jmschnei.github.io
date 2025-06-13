@@ -10,6 +10,6 @@ venue: "In Nicoletta Calzolari, Khalid Choukri, Christopher Cieri, Thierry Decle
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2018). "Automatic and Manual Web Annotations in an Infrastructure to handle Fake News and other Online Media Phenomena." *In Nicoletta Calzolari, Khalid Choukri, Christopher Cieri, Thierry Declerck, Sara Goggi, Koiti Hasida, Hitoshi Isahara, Bente Maegaard, Joseph Mariani, Hélène Mazo, Asuncion Moreno, Jan Odijk, Stelios Piperidis, and Takenobu Tokunaga, editors, Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018), pages 2416-2422, Miyazaki, Japan, 5 2018. European Language Resources Association (ELRA).*."
+citation: "Georg Rehm. (2018). \"Automatic and Manual Web Annotations in an Infrastructure to handle Fake News and other Online Media Phenomena.\" *In Nicoletta Calzolari, Khalid Choukri, Christopher Cieri, Thierry Declerck, Sara Goggi, Koiti Hasida, Hitoshi Isahara, Bente Maegaard, Joseph Mariani, Hélène Mazo, Asuncion Moreno, Jan Odijk, Stelios Piperidis, and Takenobu Tokunaga, editors, Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018), pages 2416-2422, Miyazaki, Japan, 5 2018. European Language Resources Association (ELRA).*."
 ---
 

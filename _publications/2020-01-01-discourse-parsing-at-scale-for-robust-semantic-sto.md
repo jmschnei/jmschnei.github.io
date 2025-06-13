@@ -10,6 +10,6 @@ venue: "In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2020). "Discourse Parsing at Scale for Robust Semantic Storytelling in various Use Cases." *In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors, Computational Analysis of Storylines: Making Sense of Events. Cambridge University Press.*."
+citation: "Georg Rehm. (2020). \"Discourse Parsing at Scale for Robust Semantic Storytelling in various Use Cases.\" *In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors, Computational Analysis of Storylines: Making Sense of Events. Cambridge University Press.*."
 ---
 

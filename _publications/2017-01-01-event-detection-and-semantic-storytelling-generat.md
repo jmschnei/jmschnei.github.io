@@ -10,6 +10,6 @@ venue: "In Tommaso Caselli, Ben Miller, Marieke van Erp, Piek Vossen, Martha Pal
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2017). "Event Detection and Semantic Storytelling: Generating a Travelogue from a large Collection of Personal Letters." *In Tommaso Caselli, Ben Miller, Marieke van Erp, Piek Vossen, Martha Palmer, Eduard Hovy, and Teruko Mitamura, editors, Proceedings of the Events and Stories in the News Workshop, pages 42-51, Vancouver, Canada, 8 2017. Association for Computational Linguistics. Co-located with ACL 2017.*."
+citation: "Georg Rehm. (2017). \"Event Detection and Semantic Storytelling: Generating a Travelogue from a large Collection of Personal Letters.\" *In Tommaso Caselli, Ben Miller, Marieke van Erp, Piek Vossen, Martha Palmer, Eduard Hovy, and Teruko Mitamura, editors, Proceedings of the Events and Stories in the News Workshop, pages 42-51, Vancouver, Canada, 8 2017. Association for Computational Linguistics. Co-located with ACL 2017.*."
 ---
 

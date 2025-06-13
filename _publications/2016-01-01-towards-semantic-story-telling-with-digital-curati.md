@@ -10,6 +10,6 @@ venue: "Proceedings of Natural Language Processing meets Journalism - IJCAI-16 W
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julian Moreno Schneider. (2016). "Towards Semantic Story Telling with Digital Curation Technologies." *Proceedings of Natural Language Processing meets Journalism - IJCAI-16 Workshop (NLPMJ 2016)*."
+citation: "Julian Moreno Schneider. (2016). \"Towards Semantic Story Telling with Digital Curation Technologies.\" *Proceedings of Natural Language Processing meets Journalism - IJCAI-16 Workshop (NLPMJ 2016)*."
 ---
 

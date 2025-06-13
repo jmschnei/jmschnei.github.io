@@ -10,6 +10,6 @@ venue: "In Michael Franke-Maier, Anna Kasprzik, Andreas Ledl, and Hans Schürman
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Clemens Neudecker. (2021). "Methoden und Metriken zur Messung von OCR-Qualität für die Kuratierung von Daten und Metadaten.." *In Michael Franke-Maier, Anna Kasprzik, Andreas Ledl, and Hans Schürmann, editors, Qualität der Inhaltserschließung, Bibliotheks- und Informationspraxis (BIPRA), pages 137-166. De Gruyter Saur, 09 2021.*."
+citation: "Clemens Neudecker. (2021). \"Methoden und Metriken zur Messung von OCR-Qualität für die Kuratierung von Daten und Metadaten..\" *In Michael Franke-Maier, Anna Kasprzik, Andreas Ledl, and Hans Schürmann, editors, Qualität der Inhaltserschließung, Bibliotheks- und Informationspraxis (BIPRA), pages 137-166. De Gruyter Saur, 09 2021.*."
 ---
 

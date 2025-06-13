@@ -10,6 +10,6 @@ venue: "Adaptive Multimedia Retrieval. Understanding Media and Adapting to the U
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider. (2011). "Some experiments in evaluating ASR systems applied to multimedia retrieval." *Adaptive Multimedia Retrieval. Understanding Media and Adapting to the User, 7\textsuperscriptth*."
+citation: "Julián Moreno-Schneider. (2011). \"Some experiments in evaluating ASR systems applied to multimedia retrieval.\" *Adaptive Multimedia Retrieval. Understanding Media and Adapting to the User, 7\textsuperscriptth*."
 ---
 

@@ -10,6 +10,6 @@ venue: "In Sakae Yamamoto, editor, Human Interface and the Management of Informa
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2017). "Designing User Interfaces for Curation Technologies." *In Sakae Yamamoto, editor, Human Interface and the Management of Information: Information, Knowledge and Interaction Design, 19th International Conference, HCI International 2017 (Vancouver, Canada), number 10273 in Lecture Notes in Computer Science (LNCS), pages 388-406, Cham, Switzerland, 7 2017. Springer. Part I.*."
+citation: "Georg Rehm. (2017). \"Designing User Interfaces for Curation Technologies.\" *In Sakae Yamamoto, editor, Human Interface and the Management of Information: Information, Knowledge and Interaction Design, 19th International Conference, HCI International 2017 (Vancouver, Canada), number 10273 in Lecture Notes in Computer Science (LNCS), pages 388-406, Cham, Switzerland, 7 2017. Springer. Part I.*."
 ---
 

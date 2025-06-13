@@ -10,6 +10,6 @@ venue: "In Nikolaos Aletras, Elliott Ash, Leslie Barrett, Daniel Chen, Adam Meye
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2019). "Developing and Orchestrating a Portfolio of Natural Legal Language Processing and Document Curation Services." *In Nikolaos Aletras, Elliott Ash, Leslie Barrett, Daniel Chen, Adam Meyers, Daniel Preotiuc-Pietro, David Rosenberg, and Amanda Stent, editors, Proceedings of Workshop on Natural Legal Language Processing (NLLP 2019), pages 55-66, Minneapolis, USA, 6 2019. Co-located with NAACL 2019. 7 June 2019.*."
+citation: "Georg Rehm. (2019). \"Developing and Orchestrating a Portfolio of Natural Legal Language Processing and Document Curation Services.\" *In Nikolaos Aletras, Elliott Ash, Leslie Barrett, Daniel Chen, Adam Meyers, Daniel Preotiuc-Pietro, David Rosenberg, and Amanda Stent, editors, Proceedings of Workshop on Natural Legal Language Processing (NLLP 2019), pages 55-66, Minneapolis, USA, 6 2019. Co-located with NAACL 2019. 7 June 2019.*."
 ---
 

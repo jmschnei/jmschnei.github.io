@@ -10,6 +10,6 @@ venue: "In Nicoletta Calzolari, Frédéric Béchet, Philippe Blache, Christopher
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Elena Leitner. (2020). "A Dataset of German Legal Documents for Named Entity Recognition." *In Nicoletta Calzolari, Frédéric Béchet, Philippe Blache, Christopher Cieri, Khalid Choukri, Thierry Declerck, Hitoshi Isahara, Bente Maegaard, Joseph Mariani, Asuncion Moreno, Jan Odijk, and Stelios Piperidis, editors, Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020), Marseille, France, 5 2020. European Language Resources Association (ELRA).*."
+citation: "Elena Leitner. (2020). \"A Dataset of German Legal Documents for Named Entity Recognition.\" *In Nicoletta Calzolari, Frédéric Béchet, Philippe Blache, Christopher Cieri, Khalid Choukri, Thierry Declerck, Hitoshi Isahara, Bente Maegaard, Joseph Mariani, Asuncion Moreno, Jan Odijk, and Stelios Piperidis, editors, Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020), Marseille, France, 5 2020. European Language Resources Association (ELRA).*."
 ---
 

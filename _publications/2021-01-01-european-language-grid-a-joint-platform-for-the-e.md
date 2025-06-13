@@ -10,6 +10,6 @@ venue: "In Proceedings of the 16th Conference of the European Chapter of the Ass
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2021). "European Language Grid: A Joint Platform for the European Language Technology Community.." *In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (EACL 2021), pages 221-230, Kyiv, Ukraine, 4 2021. Association for Computational Linguistics (ACL).*."
+citation: "Georg Rehm. (2021). \"European Language Grid: A Joint Platform for the European Language Technology Community..\" *In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (EACL 2021), pages 221-230, Kyiv, Ukraine, 4 2021. Association for Computational Linguistics (ACL).*."
 ---
 

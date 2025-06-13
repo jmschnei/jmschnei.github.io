@@ -10,6 +10,6 @@ venue: "In Proceedings of the 17th International Conference (SEMANTiCS 2022), 20
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Victor Mireles. (2022). "Learning Ontology Classes from Text by Clustering Lexical Substitutes derived from Language Models.." *In Proceedings of the 17th International Conference (SEMANTiCS 2022), 2022. Accepted for publication. 13-15 September 2022.*."
+citation: "Victor Mireles. (2022). \"Learning Ontology Classes from Text by Clustering Lexical Substitutes derived from Language Models..\" *In Proceedings of the 17th International Conference (SEMANTiCS 2022), 2022. Accepted for publication. 13-15 September 2022.*."
 ---
 

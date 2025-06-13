@@ -10,6 +10,6 @@ venue: "In Apostolos Antonacopoulos and Marco Büchler, editors, DATeCH 2019: Pr
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2019). "Curation Technologies for a Cultural Heritage Archive: Analysing and transforming a heterogeneous data set into an interactive curation workbench." *In Apostolos Antonacopoulos and Marco Büchler, editors, DATeCH 2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, pages 117-122, Brussels, Belgium, 5 2019. 8-10 May 2019.*."
+citation: "Georg Rehm. (2019). \"Curation Technologies for a Cultural Heritage Archive: Analysing and transforming a heterogeneous data set into an interactive curation workbench.\" *In Apostolos Antonacopoulos and Marco Büchler, editors, DATeCH 2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, pages 117-122, Brussels, Belgium, 5 2019. 8-10 May 2019.*."
 ---
 

@@ -10,6 +10,6 @@ venue: "In Nils Reiter and Gerhard Kremer, editors, CUTE Workshop 2017 - CRETA U
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Peter Bourgonje. (2017). "Domain-specific Entity Spotting: Curation Technologies for Digital Humanities and Text Analytics." *In Nils Reiter and Gerhard Kremer, editors, CUTE Workshop 2017 - CRETA Unshared Task zu Entitätenreferenzen. Workshop bei DHd2017, Berne, Switzerland, February 2017.*."
+citation: "Peter Bourgonje. (2017). \"Domain-specific Entity Spotting: Curation Technologies for Digital Humanities and Text Analytics.\" *In Nils Reiter and Gerhard Kremer, editors, CUTE Workshop 2017 - CRETA Unshared Task zu Entitätenreferenzen. Workshop bei DHd2017, Berne, Switzerland, February 2017.*."
 ---
 

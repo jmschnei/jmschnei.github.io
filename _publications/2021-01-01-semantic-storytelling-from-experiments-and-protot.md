@@ -10,6 +10,6 @@ venue: "In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2021). "Semantic Storytelling: From Experiments and Prototypes to a Technical Solution.." *In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors, Computational Analysis of Storylines: Making Sense of Events, Studies in Natural Language Processing, pages 240-259. Cambridge University Press, Cambridge, November 2021.*."
+citation: "Georg Rehm. (2021). \"Semantic Storytelling: From Experiments and Prototypes to a Technical Solution..\" *In Tommaso Caselli, Eduard Hovy, Martha Palmer, and Piek Vossen, editors, Computational Analysis of Storylines: Making Sense of Events, Studies in Natural Language Processing, pages 240-259. Cambridge University Press, Cambridge, November 2021.*."
 ---
 

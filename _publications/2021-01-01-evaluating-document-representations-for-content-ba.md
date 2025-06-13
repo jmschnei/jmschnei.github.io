@@ -10,6 +10,6 @@ venue: "In Proceedings of the Eighteenth International Conference on Artificial 
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Malte Ostendorff. (2021). "Evaluating Document Representations for Content-based Legal Literature Recommendations.." *In Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law (ICAIL 2021), pages 109-118, São Paulo, Brazil, 6 2021. Association for Computing Machinery.*."
+citation: "Malte Ostendorff. (2021). \"Evaluating Document Representations for Content-based Legal Literature Recommendations..\" *In Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law (ICAIL 2021), pages 109-118, São Paulo, Brazil, 6 2021. Association for Computing Machinery.*."
 ---
 

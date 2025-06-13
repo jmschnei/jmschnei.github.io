@@ -10,6 +10,6 @@ venue: "9\textsuperscriptth"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "María González-García. (2011). "A Methodological Framework for Evaluating ASR Systems." *9\textsuperscriptth*."
+citation: "María González-García. (2011). \"A Methodological Framework for Evaluating ASR Systems.\" *9\textsuperscriptth*."
 ---
 

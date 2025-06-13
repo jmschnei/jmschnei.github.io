@@ -10,6 +10,6 @@ venue: "In Adrian Paschke, Clemens Neudecker, Georg Rehm, Jamal Al Qundus, and L
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2020). "Towards Discourse Parsing-inspired Semantic Storytelling." *In Adrian Paschke, Clemens Neudecker, Georg Rehm, Jamal Al Qundus, and Lydia Pintscher, editors, Proceedings of QURATOR 2020 - The conference for intelligent content solutions, Berlin, Germany, 02 2020. CEUR Workshop Proceedings, Volume 2535. 20/21 January 2020.*."
+citation: "Georg Rehm. (2020). \"Towards Discourse Parsing-inspired Semantic Storytelling.\" *In Adrian Paschke, Clemens Neudecker, Georg Rehm, Jamal Al Qundus, and Lydia Pintscher, editors, Proceedings of QURATOR 2020 - The conference for intelligent content solutions, Berlin, Germany, 02 2020. CEUR Workshop Proceedings, Volume 2535. 20/21 January 2020.*."
 ---
 

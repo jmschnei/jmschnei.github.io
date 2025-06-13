@@ -10,6 +10,6 @@ venue: "10\textsuperscriptth"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider. (2012). "A Proof-of-Concept for Orthographic Named Entity Correction in Spanish Voice Queries." *10\textsuperscriptth*."
+citation: "Julián Moreno-Schneider. (2012). \"A Proof-of-Concept for Orthographic Named Entity Correction in Spanish Voice Queries.\" *10\textsuperscriptth*."
 ---
 

@@ -10,6 +10,6 @@ venue: "In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and L
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Peter Bourgonje. (2021). "SynSemClass for German: Extending a Multilingual Verb Lexicon.." *In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and Lydia Pintscher, editors, Proceedings of QURATOR 2021 - Conference on Digital Curation Technologies, Berlin, Germany, 02 2021. CEUR Workshop Proceedings, Volume 2836. 11/12 February 2021.*."
+citation: "Peter Bourgonje. (2021). \"SynSemClass for German: Extending a Multilingual Verb Lexicon..\" *In Adrian Paschke, Georg Rehm, Jamal Al Qundus, Clemens Neudecker, and Lydia Pintscher, editors, Proceedings of QURATOR 2021 - Conference on Digital Curation Technologies, Berlin, Germany, 02 2021. CEUR Workshop Proceedings, Volume 2836. 11/12 February 2021.*."
 ---
 

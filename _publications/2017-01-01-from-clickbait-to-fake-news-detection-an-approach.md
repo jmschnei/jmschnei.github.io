@@ -10,6 +10,6 @@ venue: "In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the S
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Peter Bourgonje. (2017). "From Clickbait to Fake News Detection: An Approach based on Detecting the Stance of Headlines to Articles." *In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the Second Workshop on Natural Language Processing meets Journalism - EMNLP 2017 Workshop (NLPMJ 2017), pages 84-89, Copenhagen, Denmark, 9 2017. 7 September.*."
+citation: "Peter Bourgonje. (2017). \"From Clickbait to Fake News Detection: An Approach based on Detecting the Stance of Headlines to Articles.\" *In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the Second Workshop on Natural Language Processing meets Journalism - EMNLP 2017 Workshop (NLPMJ 2017), pages 84-89, Copenhagen, Denmark, 9 2017. 7 September.*."
 ---
 

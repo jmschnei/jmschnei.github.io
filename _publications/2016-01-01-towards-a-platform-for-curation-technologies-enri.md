@@ -10,6 +10,6 @@ venue: "The Semantic Web: ESWC 2016 Satellite Events"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Peter Bourgonje. (2016). "Towards a Platform for Curation Technologies: Enriching Text Collections with a Semantic-Web Layer." *The Semantic Web: ESWC 2016 Satellite Events*."
+citation: "Peter Bourgonje. (2016). \"Towards a Platform for Curation Technologies: Enriching Text Collections with a Semantic-Web Layer.\" *The Semantic Web: ESWC 2016 Satellite Events*."
 ---
 

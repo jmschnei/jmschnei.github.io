@@ -10,6 +10,6 @@ venue: "NOOJ 2013 International Conference"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider & Paloma Martínez. (2013). "Tweets Polarity Analysis and Polarity Lexicon Extraction." *NOOJ 2013 International Conference*."
+citation: "Julián Moreno-Schneider & Paloma Martínez. (2013). \"Tweets Polarity Analysis and Polarity Lexicon Extraction.\" *NOOJ 2013 International Conference*."
 ---
 

@@ -10,6 +10,6 @@ venue: "In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the S
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider. (2017). "Semantic Storytelling, Cross-lingual Event Detection and other Semantic Services for a Newsroom Content Curation Dashboard." *In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the Second Workshop on Natural Language Processing meets Journalism - EMNLP 2017 Workshop (NLPMJ 2017), pages 68-73, Copenhagen, Denmark, 9 2017. 7 September.*."
+citation: "Julián Moreno-Schneider. (2017). \"Semantic Storytelling, Cross-lingual Event Detection and other Semantic Services for a Newsroom Content Curation Dashboard.\" *In Octavian Popescu and Carlo Strapparava, editors, Proceedings of the Second Workshop on Natural Language Processing meets Journalism - EMNLP 2017 Workshop (NLPMJ 2017), pages 68-73, Copenhagen, Denmark, 9 2017. 7 September.*."
 ---
 

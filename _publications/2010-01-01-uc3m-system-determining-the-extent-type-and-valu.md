@@ -10,6 +10,6 @@ venue: "Proceedings of the 5\textsuperscriptth"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "María Teresa Vicente-Díez. (2010). "UC3M system: Determining the Extent, Type and Value of Time Expressions in TempEval-2." *Proceedings of the 5\textsuperscriptth*."
+citation: "María Teresa Vicente-Díez. (2010). \"UC3M system: Determining the Extent, Type and Value of Time Expressions in TempEval-2.\" *Proceedings of the 5\textsuperscriptth*."
 ---
 

@@ -10,6 +10,6 @@ venue: "Revista Española para el procesamiento del lenguaje natural (SEPLN), 29
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider. (2013). "Prueba de Concepto de Expansión de Consultas basada en Ontologías de Dominio Financiero." *Revista Española para el procesamiento del lenguaje natural (SEPLN), 294, Procesamiento del Lenguaje Natural, Sociedad Española para el Procesamiento del Lenguaje Natural, ISSN: 1135-5948, Número: 51, Páginas: 109 - 116, http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/4878/2893*."
+citation: "Julián Moreno-Schneider. (2013). \"Prueba de Concepto de Expansión de Consultas basada en Ontologías de Dominio Financiero.\" *Revista Española para el procesamiento del lenguaje natural (SEPLN), 294, Procesamiento del Lenguaje Natural, Sociedad Española para el Procesamiento del Lenguaje Natural, ISSN: 1135-5948, Número: 51, Páginas: 109 - 116, http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/4878/2893*."
 ---
 

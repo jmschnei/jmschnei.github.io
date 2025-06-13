@@ -10,6 +10,6 @@ venue: "CLEF 2010 LABs and Workshops, Notebook Papers, http://celct.isti.cnr.it/
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "María Teresa Vicente-Díez. (2010). "Temporal information needs in ResPubliQA: an attempt to improve accuracy. The UC3M Participation at CLEF 2010." *CLEF 2010 LABs and Workshops, Notebook Papers, http://celct.isti.cnr.it/ResPubliQA/*."
+citation: "María Teresa Vicente-Díez. (2010). \"Temporal information needs in ResPubliQA: an attempt to improve accuracy. The UC3M Participation at CLEF 2010.\" *CLEF 2010 LABs and Workshops, Notebook Papers, http://celct.isti.cnr.it/ResPubliQA/*."
 ---
 

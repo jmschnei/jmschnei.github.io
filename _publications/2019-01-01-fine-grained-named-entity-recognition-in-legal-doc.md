@@ -10,6 +10,6 @@ venue: "In Maribel Acosta, Philippe Cudré-Mauroux, Maria Maleshkova, Tassilo Pe
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Elena Leitner. (2019). "Fine-grained Named Entity Recognition in Legal Documents." *In Maribel Acosta, Philippe Cudré-Mauroux, Maria Maleshkova, Tassilo Pellegrini, Harald Sack, and York Sure-Vetter, editors, Semantic Systems. The Power of AI and Knowledge Graphs. Proceedings of the 15th International Conference (SEMANTiCS 2019), number 11702 in Lecture Notes in Computer Science, pages 272-287, Karlsruhe, Germany, 9 2019. Springer. 10/11 September 2019.*."
+citation: "Elena Leitner. (2019). \"Fine-grained Named Entity Recognition in Legal Documents.\" *In Maribel Acosta, Philippe Cudré-Mauroux, Maria Maleshkova, Tassilo Pellegrini, Harald Sack, and York Sure-Vetter, editors, Semantic Systems. The Power of AI and Knowledge Graphs. Proceedings of the 15th International Conference (SEMANTiCS 2019), number 11702 in Lecture Notes in Computer Science, pages 272-287, Karlsruhe, Germany, 9 2019. Springer. 10/11 September 2019.*."
 ---
 

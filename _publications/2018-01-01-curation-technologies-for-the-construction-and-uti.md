@@ -10,6 +10,6 @@ venue: "In Georg Rehm, Víctor Rodríguez-Doncel, and Julián Moreno Schneider, 
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno Schneider and Georg Rehm. (2018). "Curation Technologies for the Construction and Utilisation of Legal Knowledge Graphs." *In Georg Rehm, Víctor Rodríguez-Doncel, and Julián Moreno Schneider, editors, Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph, pages 23-29, Miyazaki, Japan, 5 2018. 12 May 2018.*."
+citation: "Julián Moreno Schneider and Georg Rehm. (2018). \"Curation Technologies for the Construction and Utilisation of Legal Knowledge Graphs.\" *In Georg Rehm, Víctor Rodríguez-Doncel, and Julián Moreno Schneider, editors, Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph, pages 23-29, Miyazaki, Japan, 5 2018. 12 May 2018.*."
 ---
 

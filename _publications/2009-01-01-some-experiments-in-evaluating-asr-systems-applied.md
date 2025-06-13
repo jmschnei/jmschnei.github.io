@@ -10,6 +10,6 @@ venue: "7\textsuperscriptth"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Julián Moreno-Schneider. (2009). "Some experiments in evaluating ASR systems applied to multimedia retrieval." *7\textsuperscriptth*."
+citation: "Julián Moreno-Schneider. (2009). \"Some experiments in evaluating ASR systems applied to multimedia retrieval.\" *7\textsuperscriptth*."
 ---
 

@@ -10,6 +10,6 @@ venue: "Editions Tradulex In João Esteves-Ferreira, Juliet Macan, Ruslan Mitkov
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Ankit Srivastava. (2016). "How to Configure Statistical Machine Translation with Linked Open Data Resources." *Editions Tradulex In João Esteves-Ferreira, Juliet Macan, Ruslan Mitkov, and Olaf-Michael Stefanov, editors, Proceedings of Translating and the Computer 38 (TC38), pages 138-148.*."
+citation: "Ankit Srivastava. (2016). \"How to Configure Statistical Machine Translation with Linked Open Data Resources.\" *Editions Tradulex In João Esteves-Ferreira, Juliet Macan, Ruslan Mitkov, and Olaf-Michael Stefanov, editors, Proceedings of Translating and the Computer 38 (TC38), pages 138-148.*."
 ---
 

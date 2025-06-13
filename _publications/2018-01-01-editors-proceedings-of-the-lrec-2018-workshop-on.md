@@ -10,6 +10,6 @@ venue: "editors. Proceedings of the LREC 2018 Workshop on Language Resources and
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Georg Rehm. (2018). "Editors: Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph." *editors. Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph, Miyazaki, Japan, 5 2018. 12 May, http://legalkg2018.lynx-project.eu.*."
+citation: "Georg Rehm. (2018). \"Editors: Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph.\" *editors. Proceedings of the LREC 2018 Workshop on Language Resources and Technologies for the Legal Knowledge Graph, Miyazaki, Japan, 5 2018. 12 May, http://legalkg2018.lynx-project.eu.*."
 ---
 

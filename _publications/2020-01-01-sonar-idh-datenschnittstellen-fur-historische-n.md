@@ -10,6 +10,6 @@ venue: "In Christof Schöch, editor, DHd 2020 Spielräume: Digital Humanities zw
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Mark-Jan Bludau. (2020). "SoNAR (IDH): Datenschnittstellen für historische Netzwerkanalyse." *In Christof Schöch, editor, DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts, pages 360-362, Paderborn, Germany, 03 2020. 02-06 March 2020.*."
+citation: "Mark-Jan Bludau. (2020). \"SoNAR (IDH): Datenschnittstellen für historische Netzwerkanalyse.\" *In Christof Schöch, editor, DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts, pages 360-362, Paderborn, Germany, 03 2020. 02-06 March 2020.*."
 ---
 

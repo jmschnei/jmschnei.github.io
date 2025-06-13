@@ -10,6 +10,6 @@ venue: "In Proceedings of the 11th International Workshop on Semantic Evaluation
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
-citation: "Ankit Srivastava. (2017). "DFKI-DKT at SemEval-2017 Task 8: Rumour Detection and Classification Using Cascading Heuristics." *In Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017), pages 477-481, Vancouver, Canada, 8 2017. Association for Computational Linguistics.*."
+citation: "Ankit Srivastava. (2017). \"DFKI-DKT at SemEval-2017 Task 8: Rumour Detection and Classification Using Cascading Heuristics.\" *In Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017), pages 477-481, Vancouver, Canada, 8 2017. Association for Computational Linguistics.*."
 ---
 
