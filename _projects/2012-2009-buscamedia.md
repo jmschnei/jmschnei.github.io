@@ -1,0 +1,15 @@
+---
+title: "BUSCAMEDIA: Hacia una adaptación semántica de medios digitales multiredmultiterminal"
+acropnym: "BUSCAMEDIA"
+code: "CEN-20091026"
+collection: "projects"
+category: "national"
+permalink: "/2012-2009-buscamedia"
+excerpt: ""
+date: "2012-12-31"
+start-date: "2012-12-31"
+end-date: "2009-01-01"
+slidesurl: ""
+paperurl: ""
+bibtexurl: ""
+---

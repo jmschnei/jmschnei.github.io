@@ -128,28 +128,3 @@ Languages
 * German: Advanced (Conversationally fluent)
 * French: Basic (Basic knowledge)
 * Italian: Very Basic (Basic words and phrases only)
-
-
-
-\cventry{OpenGPT-X}{Large German Language Models}{(BMBF)}{Senior Researcher and developer}{2022-2025}{}
-
-\cventry{SPEAKER}{SPEAKER: Voice Assistants made in Germany}{(BMBF)}{Researcher and developer}{2020-2023}{}
-
-\cventry{ELG}{European Language Grid}{(H2020)}{Consultant}{2019-2022}{}
-
-\cventry{QURATOR}{Qurator: Curation Technologies}{(BMBF)}{Researcher and developer}{2018-2021}{}
-
-\cventry{Lynx}{Building the Legal Knowledge Graph}{(H2020)}{Researcher and developer}{2017-2021}{}
-
-\cventry{DKT}{Digitale Kuratierungstechnologien}{(BMBF)}{Researcher and developer}{2015-2017}{}
-
-\cventry{TRENDMINER}{Large-scale Cross-lingual Trend Mining of Real-time media
-streams}{(FP7-ICT 287863)}{}{}{}
-
-\cventry{MULTIMEDICA}{Extracción de Información Multilingüe en Sanidad y su aplicación a documentación divulgativa y científica}{(TIN2010-20644-C03-01)}{}{}{}
-
-\cventry{MA2VICMR}{Mejorando el acceso, el análisis y la visibilidad de la información y los contenidos multilingües y multimedia en red para la Comunidad de Madrid}{(S2009/TIC-1542)}{}{}{}
-
-\cventry{BUSCAMEDIA}{Hacia una adaptación semántica de medios digitales multiredmultiterminal}{(CEN-20091026)}{}{}{}
-
-\cventry{BRAVO}{Búsqueda de respuestas avanzada multimodal y multilingüe}{(TIN2007-67407-C03-01)}{}{}{}

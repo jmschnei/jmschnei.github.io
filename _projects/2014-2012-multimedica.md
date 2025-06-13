@@ -1,0 +1,15 @@
+---
+title: "MULTIMEDICA: Extracción de Información Multilingüe en Sanidad y su aplicación a documentación divulgativa y científica"
+acropnym: "MULTIMEDICA"
+code: "TIN2010-20644-C03-01"
+collection: "projects"
+category: "national"
+permalink: "/2014-2012-multimedica"
+excerpt: ""
+date: "2014-12-31"
+start-date: "2014-12-31"
+end-date: "2012-01-01"
+slidesurl: ""
+paperurl: ""
+bibtexurl: ""
+---

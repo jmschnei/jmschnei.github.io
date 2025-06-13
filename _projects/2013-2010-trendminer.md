@@ -1,0 +1,15 @@
+---
+title: "TRENDMINER: Large-scale Cross-lingual Trend Mining of Real-time media streams"
+acropnym: "TRENDMINER"
+code: "FP7-ICT 287863"
+collection: "projects"
+category: "international"
+permalink: "/2013-2010-trendminer"
+excerpt: ""
+date: "2013-12-31"
+start-date: "2013-12-31"
+end-date: "2010-01-01"
+slidesurl: ""
+paperurl: ""
+bibtexurl: ""
+---
